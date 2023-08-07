@@ -103,3 +103,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+deploy:
+  type: git
+  repo: https://github.com/ruk1ng/ruk1ng.github.io.git
+  branch: main
+
